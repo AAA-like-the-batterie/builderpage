@@ -3,7 +3,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-items: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "Fraunces", serif;
   background: #141312;
   color: #f5eedc;
 }
@@ -11,8 +11,8 @@ body {
 main {
   max-width: 32rem;
   padding: 2.5rem;
-  background: #1e1c19;
-  border: 2px solid #38332c;
+  background: #032c1e;
+  border: 2px solid #3c7451;
   border-radius: 8px;
 }
 
@@ -38,3 +38,5 @@ ul {
   gap: 1.25rem;
   margin-top: 1.5rem;
 }
+
+
