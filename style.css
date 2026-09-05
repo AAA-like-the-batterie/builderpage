@@ -4,7 +4,7 @@ body {
   display: grid;
   place-items: center;
   font-family: "Fraunces", serif;
-  background: #141312;
+  background: #000b07;
   color: #f5eedc;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 a {
-  color: #e5a93c;
+  color: #e4bc70;
   text-decoration: none;
   font-weight: 600;
 }
