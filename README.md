@@ -10,8 +10,10 @@ It has two pages (for now) :
 ![Page2 screenshot](page2screenshot.png)
 For the project I've showed, I used Pixel Studio on my phone, and for the 3D project, I used Blender ( because it's free).
 
-I've followed the 'HTML guide' and 'Your first site, line by line' in the Pixl Doc.
-I used HTML and CSS language for the website,and for the police, I've take it from Google Font.
+I've used :
+ - The 'HTML guide' and 'Your first site, line by line' in the Pixl Doc.
+ - HTML and CSS language for the website
+ - And for the police, I've take it from Google Font : [ Fraunces](https://fonts.google.com/specimen/Fraunces?preview.script=Latn&preview.lang=fr_Latn)
 
 I've decided to go with a green vibe for the color of the website because why not ?
 ###### More seriously, it's one of my favorites colors.
