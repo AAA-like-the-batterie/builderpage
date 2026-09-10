@@ -5,8 +5,7 @@
 It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
-![Website screnshoot](Screenshoot.png)
-<img src="Screenshoot.png" alt="Screenshot" width="300" height="200">
+ <img src="Screenshoot.png" alt="Screenshot" width="70%" >
 
 
 - <p>And the second one shows the few project I did.<p>
