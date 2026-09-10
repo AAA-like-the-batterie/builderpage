@@ -10,6 +10,8 @@ It has two pages (for now) :
 
 - <p>And the second one shows the few project I did.<p>
 ![Page2 screenshot](page2screenshot.png)
+<img src="page2screenshoot.png" alt="Screenshotpage2" width="70%" >
+
 For the project I've showed, I used Pixel Studio on my phone, and for the 3D project, I used Blender ( because it's free hehe).
 
 I've used :
