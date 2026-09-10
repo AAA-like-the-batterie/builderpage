@@ -6,6 +6,8 @@ It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
 ![Website screnshoot](Screenshoot.png)
+<img src="Screenshoot.png" alt="Screenshot" width="300" height="200">
+
 
 - <p>And the second one shows the few project I did.<p>
 ![Page2 screenshot](page2screenshot.png)
@@ -20,5 +22,4 @@ I've decided to go with a green vibe for the color of the website because why no
 ##### More seriously, it's one of my favorites colors.
 
 
-
-To see the website, just click on the link here : https://aaa-like-the-batterie.github.io/builderpage/ 
+To see the website, just click on the link [here](https://aaa-like-the-batterie.github.io/builderpage/) 
