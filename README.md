@@ -4,19 +4,20 @@
 
 It has two pages (for now) :
 
-- The first one is presenting me and the experiencs I have in programming,
+- The first one is presenting me and the previous experiencs I have in programming.
 ![Website screnshoot](Screenshoot.png)
-- And the second one shows the few project I did.
+
+- <p>And the second one shows the few project I did.<p>
 ![Page2 screenshot](page2screenshot.png)
 For the project I've showed, I used Pixel Studio on my phone, and for the 3D project, I used Blender ( because it's free).
 
 I've used :
  - The 'HTML guide' and 'Your first site, line by line' in the Pixl Doc.
  - HTML and CSS language for the website
- - And for the police, I've take it from Google Font : [ Fraunces](https://fonts.google.com/specimen/Fraunces?preview.script=Latn&preview.lang=fr_Latn)
+ - And for the police, I've take it from Google Font : [Fraunces](https://fonts.google.com/specimen/Fraunces?preview.script=Latn&preview.lang=fr_Latn)
 
 I've decided to go with a green vibe for the color of the website because why not ?
-###### More seriously, it's one of my favorites colors.
+##### More seriously, it's one of my favorites colors.
 
 
 
