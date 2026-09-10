@@ -19,8 +19,7 @@ I've used :
  - I've used Visual Studio Code to code it.
  - And for the police, I've take it from Google Font : [Fraunces](https://fonts.google.com/specimen/Fraunces?preview.script=Latn&preview.lang=fr_Latn).
 
-I've decided to go with a <span style="color:green">Texte en bleu</span>
- vibe for the color of the website because why not ?
+I've decided to go with a green vibe for the color of the website because why not ?
 ##### More seriously, it's one of my favorites colors.
 
 
