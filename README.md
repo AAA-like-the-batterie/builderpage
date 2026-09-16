@@ -13,7 +13,7 @@ It has two pages (for now) :
 
 # Getting Started
 
-If you just want to visit the website, click here
+If you just want to visit the website, click <a href= https://aaa-like-the-batterie.github.io/builderpage>here</a>
  ## Dependencies
   You don't really need a lot of thing to run this project on your device :
   - A browser (Chrome, Edge, Firefox, Edge, etc)Personally, I use Edge.
@@ -47,4 +47,4 @@ If you just want to visit the website, click here
 
 Then reload the page.
 
-#### I've made this readme by following the templte of Fynr1x : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
+#### I've made this readme by following the templte of ***Fynr1x*** : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
