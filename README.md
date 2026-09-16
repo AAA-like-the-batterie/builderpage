@@ -1,4 +1,4 @@
- ###### Huh, know that english isn't my first languages (and it is my fist readme lol), so I'll try my best.
+
 # Builderpage
  The project **"Builder page"** is a little website made for the YSWS (You Ship We Ship) 'Pixl'. The purpose behind it is just to present myself and some project I did too accomplish my frist trial ​✨. 
 
@@ -34,3 +34,17 @@ If you just want to visit the website, click here
  - Find the 'index.html' file
  - Double-click on it and select a browser.
  - Then the website should appears in the browser you have select ✨
+
+ # Help
+ - If the page doesn't show correctly, make sure that all these files are in the same folder :
+   - index.html
+   - page2.html
+   - style.css
+   - abox.png
+   - gateau.png
+   - Nuage.png
+   - Nuage2.png
+
+Then reload the page.
+
+#### I've made this readme by following the templte of Fynr1x : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
