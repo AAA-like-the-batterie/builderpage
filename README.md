@@ -5,7 +5,7 @@
 It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
- <img src="Screenshoot.png" alt="Screenshot" width="70%" >
+ <img src="Screenshoot.png" alt="First page screenshot" width="70%" >
 
 
 - <p>And the second one shows the few project I did.<p>
@@ -20,8 +20,17 @@ If you just want to visit the website, click here
 
   - Google Fonts - Fraunces (normally it's already link in the document, so you don't need to do anything about it).
 
-  - You don't need a specific OS, it's shoukd work on any of it. ( but if you want to know, I'm a Windows 11).
+  - You don't need a specific OS, it's shoukd work on any of it. ( but if you want to know, I'm on a Windows 11).
 
   - And if you want to modify the code, an IDE like Visual Code Studio.
 
+# Installation
+ 
+ - You can download or clone this repository.
+ - Then check that the folder is on your computer !
 
+ ## If you want open the website from your laptop
+ 
+ - Find the 'index.html' file
+ - Double-click on it and select a browser.
+ - Then the website should appears in the browser you have select ✨
