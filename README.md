@@ -5,12 +5,18 @@
 It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
-<img src="Screenshoot.png" alt="Screenshotpage2" width="70%" >
+<img src="Screenshoot.png" alt="Page 1 on the website" width="70%" >
 
 
 
 - <p>And the second one shows the few project I did.<p>
 <img src="page2screenshot.png" alt="Screenshotpage2" width="70%" >
+
+# What did I use ?
+
+- HTML (to make the structure of the website) 
+- CSS (to visually arrange the website)
+- Google Fonts (to put a font on the website text)
 
 # Getting Started
 
@@ -37,15 +43,10 @@ If you just want to visit the website, click <a href= https://aaa-like-the-batte
  - Then the website should appears in the browser you have select ✨
 
  # Help
- - If the page doesn't show correctly, make sure that all these files are in the same folder :
-   - index.html
-   - page2.html
-   - style.css
-   - abox.png
-   - gateau.png
-   - Nuage.png
-   - Nuage2.png
-
+ - If the page doesn't show correctly, make sure that all these *subfolder* are in the same folder :
+   - *Code* (index.html, page2.html, style.css)
+   - *Picture* (abox.png, gateau.png , Nuage.png ,Nuage2.png )
+   
 Then reload the page.
 
 #### I've made this readme by following the templte of ***Fynr1x*** : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
