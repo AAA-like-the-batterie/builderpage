@@ -5,7 +5,9 @@
 It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
-<img src="\Builderpage\screenshoot.png" alt="Photo centrée" width="300" style="display:block;margin:auto;">
+![Description page2](screenshot/screenshoot.png)
+![Description screenshot](screenshot/screenshot.png)
+
 
 
 - <p>And the second one shows the few project I did.<p>
