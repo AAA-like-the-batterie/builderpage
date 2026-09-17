@@ -5,8 +5,7 @@
 It has two pages (for now) :
 
 - The first one is presenting me and the previous experiencs I have in programming.
-![Description page2](screenshot/screenshoot.png)
-![Description screenshot](screenshot/screenshot.png)
+<img src="Screenshoot.png" alt="Screenshotpage2" width="70%" >
 
 
 
