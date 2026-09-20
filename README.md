@@ -12,7 +12,7 @@ It has two pages (for now) :
 <img src="page2screenshot.png" alt="Screenshotpage2" width="70%" >
 
 # Screenshoots 
-![A screenshot of a part of the code]("Programscreenshot.png")
+<img src="Programscreenshot.png" alt="Screenshotpage2" width="70%" >
 
 
 # What did I use ?Programscreenshot
