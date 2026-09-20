@@ -11,7 +11,7 @@ It has two pages (for now) :
 - <p>And the second one shows the few project I did.<p>
 <img src="page2screenshot.png" alt="Screenshotpage2" width="70%" >
 
-# Screenshoots 
+# Screenshoots ###(of the code) 
 <img src="Programscreenshot.png" alt="Screenshotpage2" width="70%" >
 
 
