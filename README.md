@@ -8,11 +8,14 @@ It has two pages (for now) :
 <img src="Screenshoot.png" alt="Page 1 on the website" width="70%" >
 
 
-
 - <p>And the second one shows the few project I did.<p>
 <img src="page2screenshot.png" alt="Screenshotpage2" width="70%" >
 
-# What did I use ?
+# Screenshoots 
+![A screenshot of a part of the code]("Programscreenshot.png")
+
+
+# What did I use ?Programscreenshot
 
 - HTML (to make the structure of the website) 
 - CSS (to visually arrange the website)
